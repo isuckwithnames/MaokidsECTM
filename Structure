@@ -1,1 +1,23 @@
+Database
+  -Customers(Done)
+  -Pets(Done)
+  -Appointments(Done)
+  -Groomer
+  -Services
+  -
+WebApp
+  -Home
+  -Appointment Booking
+     -Name
+     -Time
+     -Breed
+     -Contact Information
+     
+  -About Us
+  -Service & Pricing
 
+Backend
+  -Appointment Booking
+  -Past Appointments
+  -
+  
